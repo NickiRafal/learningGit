@@ -10,5 +10,7 @@ import lombok.Setter;
 public class Posts {
     private String title;
     private String content;
+    private String author;
     private int likeCounter;
+
 }
